@@ -6,6 +6,7 @@
       <el-table-column prop="address" label="地址"></el-table-column>
       <el-table-column prop="address" label="哈哈"></el-table-column>
       <el-table-column prop="address" label="啦啦"></el-table-column>
+       <el-table-column prop="address" label="啦啦"></el-table-column>
     </el-table>
   </div>
 </template>
