@@ -1,7 +1,11 @@
 <!--
  * @Author: 阿馨
  * @Date: 2020-07-17 18:03:09
+<<<<<<< HEAD
  * @LastEditTime: 2020-10-10 14:53:43
+=======
+ * @LastEditTime: 2020-10-10 14:56:21
+>>>>>>> dev
  * @Descripttion: 说下使用场景，是用来干什么的
  * @Props: 参数名 类型 [选填/必填] 说明 默认值
  * @Events: 事件名($emit触发的事件) 说明(最好把参数说明下)
@@ -27,6 +31,10 @@
        <el-table-column prop="address" label="aoao"></el-table-column>
        <el-table-column prop="address" label="aoao"></el-table-column>
        <el-table-column prop="address" label="aoao"></el-table-column>
+<<<<<<< HEAD
+=======
+       <el-table-column prop="address" label="aoao"></el-table-column>
+>>>>>>> dev
     </el-table>
   </div>
 </template>
